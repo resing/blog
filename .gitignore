@@ -1,4 +1,3 @@
-/app/bootstrap.php.cache
 /app/cache/*
 !app/cache/.gitkeep
 /app/config/parameters.yml
@@ -6,5 +5,5 @@
 !app/logs/.gitkeep
 /app/phpunit.xml
 /composer.phar
-/vendor/
-
+/vendor/*
+/nbproject
